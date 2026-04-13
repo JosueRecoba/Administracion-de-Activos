@@ -1,0 +1,14 @@
+# Entorno virtual
+venv/
+env/
+
+# Base de datos
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Archivos estáticos y media (opcional, según tu caso)
+media/
+
